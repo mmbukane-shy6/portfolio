@@ -31,4 +31,9 @@ ul {
     text-decoration:deeppink;
     padding-right: 150px;
   }
+  img{
+    padding-left:500px ;
+    padding-top: 100px;
+    border-radius: 12px;
+  }
   
