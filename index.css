@@ -1,0 +1,32 @@
+
+
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color:black;
+    position: fixed;
+    top: 0px;
+    
+
+    
+    
+  }
+  li {
+    float: right;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:deeppink;
+    padding-right: 150px;
+  }
+  
