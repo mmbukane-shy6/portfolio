@@ -17,6 +17,8 @@ developer.
 - on your terminal run code . or atom . reapectively to run the project in vs
 
 ## Live link
+https://mmbukane-shy6.github.io/portfolio/
+
 
 ## technologies used
 - html
