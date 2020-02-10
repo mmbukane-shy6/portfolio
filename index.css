@@ -80,7 +80,7 @@ ul {
    color: white;
    text-align: center;
    height: 8%;
-    /*position:fixed;*/ 
+    position:fixed;
    clear: both;
    
 }
